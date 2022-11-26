@@ -1,2 +1,0 @@
-BOTNAME = "usernameofbot"
-TOKEN = "TOKEN"
